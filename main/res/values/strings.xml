@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laba_5</string>
+    <string name="title">Название товара</string>
+    <string name="quantity">Количество</string>
+    <string name="description">Описание товара</string>
+    <string name="button">Купить</string>
+    <string name="second">Режим разработчика</string>
+    <string name="first">Режим покупателя</string>
+</resources>
